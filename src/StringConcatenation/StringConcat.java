@@ -5,8 +5,8 @@ public class StringConcat {
 	public static void main(String[] args) {
 		int a = 100;
 		int b = 200;
-		String x = "Hello";
-		String y = "World";
+		String x = "Hello Nishant";
+		String y = "World Vicky";
 		
 		System.out.println("the sum of a and b is:"+(a+b));//300,300
 		
